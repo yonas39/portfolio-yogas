@@ -162,8 +162,8 @@ This reflects his desire for more **user-driven customization**. Ultimately, Joh
 - **Opportunity:** A gamified feature that encourages users to improve their feed over time by completing small challenges like "mute five accounts" or "discover three new communities." Users earn rewards like fewer ads or access to exclusive content by completing these tasks.  It's Unique because this turns feed curation into a fun, engaging process, encouraging users to take small steps to optimize their content consumption. It gamified a tedious or ignored task, making content control more interactive.
 - **Why It Matters:** Turning curation into a game keeps the user experience fresh and relevant. It also addresses Blen and Johnny's complaints about declining feed relevancy without requiring users to sift through settings, making personalization more accessible and enjoyable manually.
 
-## Raw Interview notes & Materials
+## Interview notes & Materials
 
 - Here is the hand writen planning material [Link to Image](/assets/pdfs/planning_image.jpg)
-- Here is the Transcript of first interview [Link to PDF]
+- Here is the Transcript of first interview [Link to PDF](../assets/pdfs/Blen_Interview.pdf)
 - Here is the Transcript of second interview [Link to PDF](../assets/pdfs/Johnny_interview.pdf)
