@@ -164,6 +164,6 @@ This reflects his desire for more **user-driven customization**. Ultimately, Joh
 
 ## Interview notes & Materials
 
-- Here is the hand writen planning material [![Image](../assets/pdfs/planning_image.jpg)](../assets/pdfs/planning_image.jpg)
-- Here is the Transcript of first interview [![Link to PDF](../assets/pdfs/Blen_Interview.pdf)](../assets/pdfs/Blen_Interview.pdf)
-- Here is the Transcript of second interview [![Link to PDF](../assets/pdfs/Johnny_interview.pdf)](../assets/pdfs/Johnny_interview.pdf)
+- Here is the hand writen planning material [![Image](../assets/pdfs/planning_screenshoot.png)](../assets/pdfs/planning_image.jpg)
+- Here is the Transcript of first interview [![Link to PDF](../assets/pdfs/blen_interview_image.png)](../assets/pdfs/Blen_Interview.pdf)
+- Here is the Transcript of second interview [![Link to PDF](../assets/pdfs/johnny_interview_image.png)](../assets/pdfs/Johnny_interview.pdf)
