@@ -9,12 +9,12 @@ layout: doc
 
 **App Name:** **OrthoNet**
 
-<!-- Adding the image with a smaller size and circular shape -->
+<!-- Adding the image with a smaller size and circular shape click to expand it-->
 <div style="text-align: center">
-
-<img src="./assignment_2_docs/cross_logo.jpeg" alt="OrthoNet Logo" style="width:100px; height:100px; border-radius:50%">
+  <a href="./assignment_2_docs/cross_logo.jpeg">
+      <img src="./assignment_2_docs/cross_logo.jpeg" alt="OrthoNet Logo" style="width:100px; height:100px; border-radius:50%">
+  </a>
 </div>
-<!-- logo: ![image](./assignment_2_docs/cross_logo.jpeg) -->
 
 - **Intended Audience:** "OrthoNet" is a religious app designed for Orthodox Christian believers, including individuals, groups, preachers, priests, and spiritual leaders. It is a dedicated space for sharing, discussing, and deepening religious and spiritual beliefs within the Orthodox Christian community.
 
