@@ -158,6 +158,21 @@ Originally for real estate, to showcase individual property.  This feature could
     - **Observation:** Users may appreciate the app's focus on fostering inclusivity and community by offering features like shared prayer sessions and interactive forums. However, they might perceive some features, such as the "Reliability Score," as intrusive or judgmental. While the "Reliability Score" is designed to build trust by indicating a user's commitment to community activities, some users could feel it infringes on their autonomy and privacy, making them feel monitored or pressured to conform to certain behaviors.
     - **Design Response:** To address these concerns, provide clear communication about the purpose and optional nature of the "Reliability Score." Allow users to opt-out of this feature or make their scores private if they wish. Offer alternatives for building trust, such as community badges earned through positive engagement or contributions, without the pressure of a scoring system. This approach maintains the balance between fostering a trustworthy community and respecting individual user autonomy and privacy.
 
+
+## Storyboarding and Sketching
+- **Prayer Mate:** The sketch below is designed to show a user's interaction with the PrayerMate features of the app. With this simple user interface, the user first creates a new PrayerMate group in the first two steps (pages 1 & 2). Then, the user is redirected to the PrayerMate page, where they can explore existing prayer groups in the following pages (3 to 5). These pages demonstrate how users can join existing prayer groups. Finally, pages 6 to 8 show how the user can access the prayer groups they have already enrolled in, up until going live to the virtual prayer meetings
+<div>
+    <a href="./assignment_2_docs/prayerMate.jpeg"><img src="./assignment_2_docs/prayerMate.jpeg" alt="Prayermate hand sketch" width="600 " height ="600"/></a>
+</div>
+
+
+- **Polling:** The sketch below is intended to provide a step-by-step UI guide for a preacher who wants to determine the next discussion topic based on a popular vote from group followers (students, etc.). First, from the Orthonet page, the preacher selects the expand menu (on page 1 of the sketch) button and scrolls down to find the group options. When the group option is selected, it will provide a small window to publish text posts or give an option to select from when the three dots next to the text composing section are selected (page 2). This selection brings up a list of options, including 'Poll,' on page 3. Once the user selects that option, they will be prompted to enter options (topics) to choose from on page 4. Finally, once the preacher hits the 'Post' button, the poll will be displayed to the group, and users can start selecting their preferred topics. The statistics are also displayed next to each topic based on the number of votes they receive, as shown on page 5.
+
+<div>
+    <a href="./assignment_2_docs/poll.jpeg"><img src="./assignment_2_docs/poll.jpeg" alt="polling hand sketch" width="600 " height ="600"/></a>
+</div>
+
+
 ## Resources:
 - [yes and ...](https://en.wikipedia.org/wiki/Yes,_and...)
 - [Tactics for divergent design](https://essenceofsoftware.com/tutorials/design-general/divergent-tactics/)
