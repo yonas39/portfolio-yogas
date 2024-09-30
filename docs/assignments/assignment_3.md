@@ -383,3 +383,8 @@ Interactive Bible Quizzes were chosen as they encourage active learning and prov
 Options: Implement restrictions on group participation based on criteria like age, gender, or location, or allow all users to join any prayer group without restrictions.
 
 Group Restrictions were chosen to ensure that participants feel comfortable and relatable within prayer groups, enhancing the quality of interaction. However, this can lead to exclusion or reduced group size, making it difficult to fill groups. Open Participation would increase inclusivity and flexibility but might reduce the sense of safety and relevance, especially in sensitive discussions or prayer topics.
+
+
+## Resources:
+1. The Essence of Software : https://essenceofsoftware.com
+
