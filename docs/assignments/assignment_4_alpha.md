@@ -70,3 +70,23 @@ layout: doc
 - **User**:  one `User`
 
 ![image](./assignment_2_docs/DataModel.jpeg)
+
+```
+App: OrthoNet
+  Inlcude:
+    Authentication
+    PrayerMate [User, Event]
+    Calendar [User, Event]
+    BibleQuiz [User]
+    Tour[User, Event]
+    Follow [User]
+    Friend [User]
+    Session[User.user]
+```
+
+Deployed my app in the following link: [My Vercel Link](https://61040-a4-rho.vercel.app)
+
+Here is the link to my current repository: [GitHub](https://github.com/yonas39/A4_startercode)
+
+Note:
+I utilized Chat-GPT to debug and generate starting code for my routes
