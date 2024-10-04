@@ -387,4 +387,3 @@ Group Restrictions were chosen to ensure that participants feel comfortable and 
 
 ## Resources:
 1. The Essence of Software : https://essenceofsoftware.com
-
