@@ -1,5 +1,5 @@
 ---
-title: "Blog 2: Lecture-8 Reflection"
+title: "Blog 2: Lecture-6 Reflection"
 layout: doc
 ---
 
