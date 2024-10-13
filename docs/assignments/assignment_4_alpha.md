@@ -200,7 +200,7 @@ layout: doc
 - `End Session(user)`: End a session, logging out the user.
 - `Check Session(user)`: Validate if the session is active for a given user.
 
-![image](./assignment_2_docs/data_design.jpeg)
+![image](./assignment_2_docs/data_Design.jpeg){ width=400 height=400 }
 
 ```
 App: OrthoNet
@@ -233,6 +233,3 @@ Here is the link to my current repository: [GitHub](https://github.com/yonas39/A
 
 Note:
 I utilized Chat-GPT to debug and generate starting code for my routes
-
-
-
