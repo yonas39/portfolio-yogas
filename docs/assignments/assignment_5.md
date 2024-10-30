@@ -66,3 +66,7 @@ While adding more tooltips or guides might help new users, it could slow down ex
 ## Safety vs. Speed:
 
 Adding confirmation dialogs improves safety but introduces additional steps, potentially reducing efficiency. Using undo options instead of confirmations could strike a balance between safety and speed.
+
+## Vercel Deployment Link:
+
+https://orthonet-njen2s0mq-yonas39s-projects.vercel.app
