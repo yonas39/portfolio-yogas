@@ -24,7 +24,7 @@ In the first example, the front end must extract and parse the  "User not found
 
 ### Efficiency and Simplicity: Integer Codes vs. Strings
 
-Status codes are designed to be lightweight and easy to process. As you mentioned [here]("https://mpadilla198.github.io/portfolio-miguel-padilla/blogs/blog1.html#a-concise-intro-to-http-response-status-codes"), this design choice stems from the origins of HTTP when **low memory** and **limited computational resources** were common constraints. Even today, comparing an integer like 404 is faster than parsing and interpreting "User not found" across multiple systems.
+Status codes are designed to be lightweight and easy to process. As you mentioned [here](https://mpadilla198.github.io/portfolio-miguel-padilla/blogs/blog1.html), this design choice stems from the origins of HTTP when **low memory** and **limited computational resources** were common constraints. Even today, comparing an integer like 404 is faster than parsing and interpreting "User not found" across multiple systems.
 Using status codes simplifies debugging and logging too loggers can categorize requests by **error classes (4xx or 5xx)**, aiding system monitoring.
 Example:
 Imagine logging every error response:
@@ -36,7 +36,7 @@ The second format is more concise and standardized, making it easier to aggregat
 
 ### Expressive Status Codes Provide Granular Information
 
-Beyond success and failure, HTTP codes offer ** granularity \***. This allows for richer communication between the client and Server, leading to better user experiences. For instance:
+Beyond success and failure, HTTP codes offer **granularity**. This allows for richer communication between the client and Server, leading to better user experiences. For instance:
 **201 (Created)**: When a new resource is successfully created (e.g., a new user is added).
 **204 (No Content)**: When an update is successful, but no further data is returned.
 **429 (Too Many Requests)**: When rate-limiting is enforced, preventing abuse.
@@ -69,12 +69,12 @@ Frontend handling: Can immediately detect that the user cannot proceed with the
 Server Errors (5xx):
 503 Service Unavailable: Indicates that the Server is temporarily unavailable (e.g., for maintenance). Including a Retry-After header helps the client handle the situation gracefully.
 ``HTTP/1.1 503 Service Unavailable
-Retry-After: 120`
+  Retry-After: 120`
 Example Response:
 ` {"error": "Server is under maintenance. Try again in 2 minutes."}`
 Success Responses (2xx):
 204 No Content: Useful when a PATCH request is successful, but no additional information needs to be returned.
-`HTTP/1.1 204 No Content```
+`HTTP/1.1 204 No Content`
 Avoiding Non-Standard Status Codes
 Although it's technically possible to create custom status codes, such as using 418 (I'm a Teapot) in the AllErrorsexample, it sacrifices ** compatibility and clarity **. Non-standard codes or unusual practices can confuse developers and reduce the reliability of your API, especially if external clients depend on it.
 
@@ -85,7 +85,7 @@ Using HTTP status codes is not just about **following conventions**. It offers 
 **Efficiency**: Integer comparisons are faster than string parsing.
 **Interoperability\***: Adhering to HTTP standards ensures other developers and systems can reliably use your API.
 **Granularity**: Different codes provide nuanced feedback, helping clients handle responses appropriately.
-** Maintainability **: Following standards makes your API predictable and easier to debug or extend.
+**Maintainability**: Following standards makes your API predictable and easier to debug or extend.
 While using strings for error handling might seem sufficient at first glance, **standard HTTP status codes offer better context, maintainability, and performance**. These benefits will become even more apparent if you ever plan to open your API to external users.
 
 ```
