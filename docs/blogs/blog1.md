@@ -12,6 +12,7 @@ layout: doc
 **Breed:** pomeranian
 
 ### Fun Facts
+
 - She loves to eat!
 - The only trick she konws is how to shake hands
 
